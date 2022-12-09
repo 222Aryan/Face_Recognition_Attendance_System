@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "face",
+            "database": "face_recognition",
+            "username": "sqluser",
+            "password": "password"
+        }
+    ],
+    "python.pythonPath": "c:\\Users\\Muhammad Waseem\\myPython\\Scripts\\python.exe"
+}
