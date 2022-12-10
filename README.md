@@ -20,8 +20,8 @@ Install Libaries as Mention in Files of Project .
 3. pip install opencv-contrib-python
 4. pip install mysql-connector-python
 ----------------------------------
-Database Flies
-[regteach.csv](https://github.com/222Aryan/Face_Recognition_Attendance_Syastem--For_Colleges_and_Schools/files/10199693/regteach.csv)
-[stdattendance.csv](https://github.com/222Aryan/Face_Recognition_Attendance_Syastem--For_Colleges_and_Schools/files/10199694/stdattendance.csv)
-[student.csv](https://github.com/222Aryan/Face_Recognition_Attendance_Syastem--For_Colleges_and_Schools/files/10199695/student.csv)
+Database Flies .
+1. -> [regteach.csv](https://github.com/222Aryan/Face_Recognition_Attendance_Syastem--For_Colleges_and_Schools/files/10199693/regteach.csv)
+2. ->[stdattendance.csv](https://github.com/222Aryan/Face_Recognition_Attendance_Syastem--For_Colleges_and_Schools/files/10199694/stdattendance.csv)
+3. _>[student.csv](https://github.com/222Aryan/Face_Recognition_Attendance_Syastem--For_Colleges_and_Schools/files/10199695/student.csv)
 -----------------------------------
