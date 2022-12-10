@@ -24,6 +24,5 @@ Database Flies [regteach.csv](https://github.com/222Aryan/Face_Recognition_Atten
 [stdattendance.csv](https://github.com/222Aryan/Face_Recognition_Attendance_Syastem--For_Colleges_and_Schools/files/10199694/stdattendance.csv)
 [student.csv](https://github.com/222Aryan/Face_Recognition_Attendance_Syastem--For_Colleges_and_Schools/files/10199695/student.csv)
 -----------------------------------
-Connect With Me :
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/aryan-trivedi-2b6330242/))
 &nbsp;
