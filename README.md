@@ -26,3 +26,6 @@ Database Flies [regteach.csv](https://github.com/222Aryan/Face_Recognition_Atten
 -----------------------------------
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/aryan-trivedi-2b6330242/))
 &nbsp;
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
