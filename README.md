@@ -14,11 +14,11 @@ Requirements Install Project
 2. Python 3.8.5 64bit 
 3. mysql ( create database same as mention in project file )
 -----------------------------
-Install Libaries as Mention in Files of Project 
--> pip install Pillow
--> pip install opecv-python
--> pip install opencv-contrib-python
--> pip install mysql-connector-python
+Install Libaries as Mention in Files of Project .
+1. pip install Pillow
+2. pip install opecv-python
+3. pip install opencv-contrib-python
+4. pip install mysql-connector-python
 ----------------------------------
 mysql workbench  Flies
 [regteach.csv](https://github.com/222Aryan/Face_Recognition_Attendance_Syastem--For_Colleges_and_Schools/files/10199693/regteach.csv)
