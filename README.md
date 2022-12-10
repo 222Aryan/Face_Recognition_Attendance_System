@@ -25,4 +25,4 @@ Database Flies [regteach.csv](https://github.com/222Aryan/Face_Recognition_Atten
 [student.csv](https://github.com/222Aryan/Face_Recognition_Attendance_Syastem--For_Colleges_and_Schools/files/10199695/student.csv)
 -----------------------------------
 
-<img src=" https://www.linkedin.com/in/aryan-trivedi-2b6330242/" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
