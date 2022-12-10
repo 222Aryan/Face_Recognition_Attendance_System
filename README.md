@@ -1,4 +1,4 @@
-# Face_Recognition_Attendance_Syastem((For_Colleges _and_Schools))
+# Face_Recognition_Attendance_Syastem(For_Colleges _and_Schools)
 
 Can't join Error
 
