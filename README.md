@@ -7,7 +7,7 @@ Note: Student_id must be sequence... 1 2 3 4 ... ......
 2. Second you add same student information like me (As I've written my information you have to write)
 3. Now, click on add button add your data in database and collect the photo samples. Then
 4. Run Face_recognition page.
-
+-----------------------------
 Requirements Install Project 
 -----------------------------
 1. VS Code
