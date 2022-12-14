@@ -24,22 +24,22 @@ Install Libaries as Mention in Files of Project .
 
 Algorithm Use:
 -----------------------------
-Haarcascade Opencv (Object Detection)
-LBPH Opencv (Face Recognition)
+1. Haarcascade Opencv (Object Detection)
+2. LBPH Opencv (Face Recognition)
 
 Features of Project:
 -----------------------------
 Real time face detection
-1] Loging Security System
+1. Loging Security System
 (Username&Password)
-2] Home Page
-i) Student management system (Save, Take Photo Samples, Update, Delete, Clear) 
-ii) Train Photo Samples 
-iii) Take Attendance with Face Detection 
-iv) Attendance Report (Excel file & MySql database) 
-v) Developer Page
-vi) Help Desk
-vii) Exit System
+2. Home Page
+ 1. Student management system (Save, Take Photo Samples, Update, Delete, Clear) 
+ 2. Train Photo Samples 
+ 3. Take Attendance with Face Detection 
+ 4. Attendance Report (Excel file & MySql database) 
+ 5. Developer Page
+ 6. Help Desk
+ 7. Exit System
 
 ----------------------------------
 Database Flies [regteach.csv](https://github.com/222Aryan/Face_Recognition_Attendance_Syastem--For_Colleges_and_Schools/files/10199693/regteach.csv)
