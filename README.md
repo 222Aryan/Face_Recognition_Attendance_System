@@ -1,4 +1,4 @@
-# Face_Recognition_Attendance_Syastem(For_Colleges _and_Schools)
+<h1 align="center"><a href="https://peterhan.dev">Face Recognition Attendance System</a></h1>
 
 
 <p align="center"> 
